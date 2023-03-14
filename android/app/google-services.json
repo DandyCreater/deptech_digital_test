@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349692609609",
+    "project_id": "deptech-85775",
+    "storage_bucket": "deptech-85775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349692609609:android:11a0aeb9a500d3d21eab98",
+        "android_client_info": {
+          "package_name": "com.example.dep_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349692609609-e1qof1e61htcai4afr4q6c1fs69n212n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHwW1elSPa47SdJ8Hwt3M7xxjrHTykBz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349692609609-e1qof1e61htcai4afr4q6c1fs69n212n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
